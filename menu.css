@@ -3,9 +3,7 @@ body {
     width: 100%;
 }
 
-.collapse.show {
-    z-index: 999; /* Diğer içeriklerin üzerine çıkacak şekilde yüksek bir z-index değeri */
-}
+
 
 /* img{
 	pointer-events: none;
@@ -69,7 +67,7 @@ hr {
    /* CARd YAPIININ AYARLARI BURADA YAPILDI */
 .card-body {
     margin: auto;
-    margin-bottom: 72px;
+    margin-bottom: 7px;
     box-shadow: 0 0 5px 0 rgba(0,0,0,0.45); /* Daha hafif bir gölge efekti */
 }
 
