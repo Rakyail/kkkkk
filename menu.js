@@ -11,9 +11,6 @@ $(document).ready(function(){
               scrollTop: offset
 <<<<<<< Updated upstream
           }, 700);
-=======
-          }, 350);
->>>>>>> Stashed changes
       });
   });
 });
