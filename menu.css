@@ -3,6 +3,9 @@ body {
     width: 100%;
 }
 
+.collapse.show {
+    z-index: 999; /* Diğer içeriklerin üzerine çıkacak şekilde yüksek bir z-index değeri */
+}
 
 /* img{
 	pointer-events: none;
