@@ -16,6 +16,7 @@ img {
     height: 150px;   
 } */
 
+
 p {
     text-align: center;
     font-family: "Anta", sans-serif;
@@ -66,10 +67,20 @@ hr {
 }
    /* CARd YAPIININ AYARLARI BURADA YAPILDI */
 .card-body {
+<<<<<<< Updated upstream
     height: auto;
     width: 100%;
     margin-bottom: 7px;
     box-shadow: 0 0 5px 0 rgba(0,0,0,0.45); /* Daha hafif bir gölge efekti */
+=======
+    display:flexbox;
+    height: auto;
+    width: 100%;
+    margin-bottom: 3px;
+	box-shadow: 0 0 10px 0 rgba(0,0,0,0.45) inset;	
+
+
+>>>>>>> Stashed changes
 }
 
 
