@@ -65,12 +65,11 @@ hr {
 }
    /* CARd YAPIININ AYARLARI BURADA YAPILDI */
 .card-body {
-    display:flexbox;
-    margin-bottom: 7px;
-   box-shadow: 0 0 10px 0 rgba(0,0,0,0.45) inset;	
-
-
+    margin: auto;
+    margin-bottom: 72px;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.45); /* Daha hafif bir gölge efekti */
 }
+
 
  /* menu sayfaısnın ustunde kı karakoy gumruk yazısı css */
   .gumruk{
