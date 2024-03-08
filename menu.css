@@ -66,8 +66,8 @@ hr {
    /* CARd YAPIININ AYARLARI BURADA YAPILDI */
 .card-body {
     display:flexbox;
-    margin-bottom: 3px;
-	box-shadow: 0 0 10px 0 rgba(0,0,0,0.45) inset;	
+    margin-bottom: 7px;
+   box-shadow: 0 0 10px 0 rgba(0,0,0,0.45) inset;	
 
 
 }
