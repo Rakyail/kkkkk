@@ -66,7 +66,8 @@ hr {
 }
    /* CARd YAPIININ AYARLARI BURADA YAPILDI */
 .card-body {
-    margin: auto;
+    height: auto;
+    width: 100%;
     margin-bottom: 7px;
     box-shadow: 0 0 5px 0 rgba(0,0,0,0.45); /* Daha hafif bir gölge efekti */
 }
