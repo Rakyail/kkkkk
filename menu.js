@@ -9,9 +9,9 @@ $(document).ready(function(){
           var offset = target.offset().top - 180; // Hedefin pozisyonunu al ve 50 piksel aşağı kaydır
           $('html, body').animate({
               scrollTop: offset
-<<<<<<< Updated upstream
+
           }, 700);
-      });
+  
   });
 });
 
